@@ -1,0 +1,3 @@
+# Role Base Authentication Mern Stack
+
+Implementation of role baesed authentication using react.js, node.js mongodb and redux for state management. It includes roles like `super admin`, `user admin`, `vehicle admin`, `user`. This is basically a vehicle management system which has the role based authentication. In also includes the user registeration and user login and also provides authority to the user as per his/her role. Likewise, the `super admin` is the most powerful role with more authorities, whereas `vehicle admin` has lesser power with some lesser authorities over the system. And the `user admin` has lesser authorities than other 2 admins but more authorities than `user` over the system.
